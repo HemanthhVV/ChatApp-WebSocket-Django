@@ -1,2 +1,2 @@
-# Django_Projects
-This repo contains my projects and learnings through on Django
+# Live-ChatApp
+This project give me a better understanding of how websocket works and also built it in django was more interesting 
